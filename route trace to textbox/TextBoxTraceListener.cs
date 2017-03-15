@@ -1,4 +1,5 @@
-﻿using System;
+﻿//
+using System;
 namespace route_trace_to_textbox
 {
   public class TextBoxTraceListener : System.Diagnostics.TraceListener
